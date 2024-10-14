@@ -1,5 +1,5 @@
 # cpa
-cpa (copy-all) is a very lightweight CLI tool to copy whole shell command output to OS-level clipboard.
+cpa (copy-all) is a very lightweight CLI tool to copy whole shell command output to OS-level [clipboard](https://github.com/aweinstock314/rust-clipboard).
 
 ## Prerequisites
 On Linux you need the x11 library:
